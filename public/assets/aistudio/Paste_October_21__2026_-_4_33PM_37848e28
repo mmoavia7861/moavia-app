@@ -1,0 +1,750 @@
+# MASTER DEVELOPMENT PROMPT — MOAVIA SEO PRO
+
+## YOUR ROLE
+
+Act as an elite full-stack software engineer, senior technical SEO architect, UI/UX designer, conversion rate optimization specialist, digital marketing strategist, and experienced SaaS product developer.
+
+**PROJECT NAME:** Moavia SEO Pro
+
+**PRIMARY OBJECTIVE:** Build a complete, production-ready, exceptionally professional, high-performance, SEO-first digital marketing agency website that also functions as an installable mobile Progressive Web App (PWA).
+
+This must be a real, functional application with a professional frontend, appropriate backend functionality, intelligent AI customer support, genuine working contact integrations, and comprehensive SEO implementation.
+
+**DO NOT create a simple landing page, a generic agency template, a single-page mockup, or an incomplete prototype.**
+
+Create the full application, all routes, individual service pages, realistic business content, interactive components, and deployment-ready source code.
+
+---
+
+# 1. BRAND IDENTITY AND BUSINESS INFORMATION
+
+- Brand Name: Moavia SEO Pro
+- Business Type: Global Digital Marketing and Web Development Agency
+- Primary Language: Professional International English
+- Target Audience: Small businesses, startups, entrepreneurs, online stores, agencies, service providers, and international companies.
+- Target Markets: USA, UK, Canada, Australia, UAE, Pakistan, and global clients.
+- Brand Positioning: Professional, affordable-to-mid-market, results-focused digital growth partner.
+
+**Official Business Contact Information:**
+
+- Business WhatsApp: +923234313869
+- WhatsApp URL: https://wa.me/923234313869
+- Business Email: moaviahassan124@gmail.com
+- LinkedIn: https://www.linkedin.com/in/moavia-hassan-seo/
+- Facebook: https://www.facebook.com/profile.php?id=61594226902693
+
+Display these exact details throughout the appropriate website sections. Do not use placeholder phone numbers, emails, or social media accounts.
+
+Use professionally written messaging such as:
+
+**Hero Heading:**
+"Grow Your Business with Smarter SEO, High-Converting Websites & Performance Marketing."
+
+**Hero Description:**
+"From technical SEO and WordPress development to Meta Ads and Google Ads, Moavia SEO Pro helps ambitious businesses build visibility, generate qualified leads, and accelerate sustainable growth."
+
+**Primary CTA:** Get a Free Consultation
+
+**Secondary CTA:** Explore Our Services
+
+**Additional CTA:** Chat on WhatsApp
+
+---
+
+# 2. PREMIUM UI/UX DESIGN SYSTEM
+
+Create a premium international agency website with a distinctive visual identity.
+
+**Design Direction:**
+- Modern 2026 SaaS and digital marketing agency aesthetic.
+- Sophisticated, minimal, clean, conversion-focused design.
+- Premium navy, deep blue, electric cyan, and teal accents.
+- Primarily white and very light neutral backgrounds for reading-heavy service pages.
+- Elegant typography such as Inter, Manrope, or Plus Jakarta Sans.
+- Beautiful gradients, subtle glass effects, sophisticated iconography.
+- Professional abstract illustrations, SEO analytics visuals, marketing dashboards, and web development imagery.
+- Custom SVG logo combining the letter "M", digital growth, and an upward arrow.
+- Custom favicon and PWA icons.
+- Sticky responsive navigation.
+- Large, readable headings and excellent content hierarchy.
+- Interactive but lightweight service cards.
+- Subtle entrance animations and polished hover states.
+- Premium mobile navigation with a functional hamburger menu.
+- Consistent spacing, border radii, card treatments, buttons, and shadows.
+- Optional dark mode with accessible contrast.
+- No intrusive popups or excessive animation.
+
+**Responsive Requirements:**
+Perfectly adapt the interface to mobile devices, tablets, laptops, and wide desktop monitors.
+
+Test layouts for screen widths approximately 320px, 375px, 430px, 768px, 1024px, 1440px, and larger.
+
+Prevent horizontal overflow, overlapping text, broken navigation, and inaccessible controls.
+
+Follow WCAG 2.2 AA accessibility principles.
+
+---
+
+# 3. COMPLETE WEBSITE INFORMATION ARCHITECTURE
+
+Generate a proper multipage website with crawlable, unique URLs.
+
+## Core Pages
+
+1. Home — `/`
+2. About Us — `/about`
+3. All Services — `/services`
+4. SEO Services — `/services/seo`
+5. Website Development — `/services/web-development`
+6. Meta Ads Management — `/services/meta-ads`
+7. Google Ads Management — `/services/google-ads`
+8. Pricing — `/pricing`
+9. Portfolio — `/portfolio`
+10. Blog — `/blog`
+11. Contact — `/contact`
+12. Free Consultation — `/free-consultation`
+13. FAQ — `/faq`
+14. Privacy Policy — `/privacy-policy`
+15. Terms and Conditions — `/terms`
+16. Thank You — `/thank-you`
+17. Custom 404 Error Page
+
+**IMPORTANT:** Each primary service must have its own dedicated page, and every subservice listed below should have its own detailed, SEO-optimized page.
+
+---
+
+# 4. SEO SERVICES — FULL DEPARTMENT
+
+Build an SEO service category page plus these separate detailed service pages:
+
+- `/services/seo/seo-audit`
+- `/services/seo/on-page-seo`
+- `/services/seo/off-page-seo`
+- `/services/seo/technical-seo`
+- `/services/seo/keyword-research`
+- `/services/seo/link-building`
+- `/services/seo/backlinks`
+- `/services/seo/guest-posting`
+- `/services/seo/local-seo`
+- `/services/seo/google-business-profile`
+- `/services/seo/ecommerce-seo`
+- `/services/seo/wordpress-seo`
+- `/services/seo/content-optimization`
+- `/services/seo/competitor-analysis`
+- `/services/seo/international-seo`
+- `/services/seo/schema-markup`
+- `/services/seo/core-web-vitals`
+- `/services/seo/seo-consulting`
+- `/services/seo/monthly-seo`
+
+Explain relevant professional SEO deliverables, including:
+
+- Google Search Console optimization
+- Google Analytics 4 setup and reporting
+- Website crawlability and indexability
+- Search intent analysis
+- Keyword mapping and content strategy
+- Title tags and meta descriptions
+- Content hierarchy and internal linking
+- XML sitemaps and robots.txt
+- Canonical URLs and redirects
+- Structured data
+- Broken links and 404 troubleshooting
+- Mobile-first SEO
+- Page speed optimization
+- Local citations and NAP consistency
+- Ethical outreach and backlink analysis
+- Competitor backlink gap analysis
+- Content audits and topical authority
+- SEO reporting and ongoing performance monitoring
+
+Use ethical, search-engine-compliant SEO practices. Never promise guaranteed rankings, guaranteed backlinks from named publishers, or guaranteed traffic.
+
+---
+
+# 5. WEBSITE DEVELOPMENT SERVICES — FULL DEPARTMENT
+
+Create separate pages for:
+
+- WordPress Website Development
+- WordPress Website Redesign
+- WordPress Speed Optimization
+- WordPress Maintenance and Support
+- WordPress Bug Fixing
+- WooCommerce Website Development
+- E-commerce Website Development
+- AI-Generated Website Development
+- AI-Powered Web Applications
+- Custom Website Development
+- Business Website Design
+- Portfolio Website Design
+- Landing Page Design
+- High-Converting Sales Funnels
+- Responsive Website Development
+- Website Migration
+- Website Security and Performance
+- Website Technical SEO
+- Website Hosting and Domain Configuration
+
+Each service should have a logical, keyword-optimized URL under `/services/web-development/`.
+
+Explain deliverables, target customers, development process, performance optimization, and optional integrations.
+
+Include premium illustrations showing website mockups, responsive devices, WordPress-style dashboards, e-commerce storefronts, and conversion-oriented landing pages.
+
+---
+
+# 6. META ADS — FULL DEPARTMENT
+
+Create a dedicated Meta Ads category page and separate subservice pages for:
+
+- Facebook Ads Campaign Management
+- Instagram Ads Campaign Management
+- Meta Ads Account Setup
+- Meta Business Portfolio Setup
+- Facebook and Instagram Lead Generation
+- E-commerce Product Advertising
+- Sales and Conversion Campaigns
+- Brand Awareness Campaigns
+- Traffic Campaigns
+- WhatsApp Click-to-Chat Ads
+- Instagram Reels and Stories Ads
+- Ad Creative Design
+- Ad Copywriting
+- Meta Pixel Integration
+- Conversions API Setup
+- Custom Audience Creation
+- Retargeting and Remarketing
+- Lookalike Audience Strategy
+- Campaign Optimization
+- A/B Testing
+- Meta Ads Audit
+- Monthly Meta Ads Management
+
+Each page must include campaign objectives, strategy, ad formats, setup deliverables, optimization methods, reporting, and a consultation CTA.
+
+Explain that advertising budgets are separate from management charges.
+
+Do not guarantee conversions, specific ROAS, or platform approval.
+
+---
+
+# 7. GOOGLE ADS — FULL DEPARTMENT
+
+Create a category page plus dedicated pages for:
+
+- Google Search Ads
+- Google Display Ads
+- Google Shopping Ads
+- Performance Max Campaigns
+- YouTube Video Ads
+- Google Demand Gen Campaigns
+- Google Ads Account Setup
+- Google Keyword Planner and PPC Keyword Research
+- Google Ads Conversion Tracking
+- Google Tag Manager Integration
+- Google Analytics 4 Integration
+- Google Ads Remarketing
+- Google Ads for Local Businesses
+- Google Ads for E-commerce
+- Google Ads Landing Page Optimization
+- Google Ads Audit
+- PPC Bid Strategy and Optimization
+- Google Merchant Center Setup
+- Monthly Google Ads Management
+
+Explain:
+- PPC campaign architecture
+- Search intent and keyword targeting
+- Negative keyword research
+- Ad groups and ad copy
+- Budget and bidding strategy
+- Conversion measurement
+- Audience segmentation
+- A/B testing
+- Quality Score and landing page relevance
+- Reporting and optimization
+
+All pages must contain original, genuinely useful explanatory content.
+
+---
+
+# 8. PRICING SYSTEM
+
+Build a complete professional pricing page, with category filters, comparison tables, and pricing cards.
+
+Use transparent, medium-level competitive international rates in USD.
+
+**SEO Pricing:**
+
+| Service | Starting Price |
+|---|---:|
+| Basic SEO Audit | $99 |
+| Advanced SEO Audit | $249 |
+| Keyword Research | $79 |
+| On-Page SEO | $199 |
+| Technical SEO | $249 |
+| Local SEO Setup | $199 |
+| Backlink Profile Analysis | $99 |
+| Ethical Link Outreach Management | $149 |
+| SEO Starter Monthly | $399/month |
+| SEO Growth Monthly | $699/month |
+| SEO Advanced Monthly | $1,199/month |
+
+**Website Development Pricing:**
+
+| Service | Starting Price |
+|---|---:|
+| Landing Page Design | $199 |
+| AI-Generated Business Website | $349 |
+| WordPress Starter Website | $499 |
+| Professional Business Website | $899 |
+| WooCommerce Website | $1,299 |
+| Custom Web Application | $1,499 |
+| WordPress Maintenance | $79/month |
+| WordPress Speed Optimization | $149 |
+
+**Meta Ads Pricing:**
+
+| Service | Starting Price |
+|---|---:|
+| Meta Ads Account Setup | $99 |
+| Meta Campaign Setup | $149 |
+| Meta Pixel Setup | $99 |
+| Meta Ads Audit | $99 |
+| Meta Ads Management | $299/month |
+| Advanced Meta Ads Management | $599/month |
+| Ad Creative Package | $99 |
+
+**Google Ads Pricing:**
+
+| Service | Starting Price |
+|---|---:|
+| Google Ads Setup | $149 |
+| Google Search Campaign Setup | $199 |
+| Google Ads Audit | $99 |
+| Conversion Tracking Setup | $149 |
+| Google Ads Monthly Management | $349/month |
+| Advanced PPC Management | $699/month |
+| Google Shopping Setup | $249 |
+
+**Combined Growth Packages:**
+
+- Starter Growth: $499/month
+- Business Growth: $899/month
+- Premium Growth: $1,499/month
+
+Make packages clearly describe their included deliverables and scope.
+
+All pricing must be stored in a central editable configuration so the owner can change services and rates without modifying individual pages.
+
+Display "Starting from" wherever the cost depends on scope.
+
+Clearly disclose that third-party subscriptions, website hosting, domain registration, publisher fees, and advertising spend are not included unless explicitly stated.
+
+Do not implement payment processing unless properly configured.
+
+---
+
+# 9. AI CUSTOMER SUPPORT CHATBOT
+
+Integrate a genuinely functional, professional AI-powered chat assistant branded:
+
+**Moavia AI Assistant**
+
+Use the Google Gemini API through secure server-side code.
+
+**Features:**
+- Floating AI chat button displayed on every page.
+- Beautiful expandable chat interface.
+- Works on desktop and mobile.
+- Greeting: "Welcome to Moavia SEO Pro! I'm your AI assistant. How can I help you grow your business today?"
+- Understands all SEO, WordPress, website development, Meta Ads, and Google Ads services.
+- Uses the website's actual services and pricing as its knowledge source.
+- Answers service questions in natural, professional English.
+- Can respond in Urdu or Roman Urdu when customers use those languages.
+- Recommends relevant services based on the customer's stated requirements.
+- Explains packages and starting prices accurately.
+- Collects interested customers' contact details only with their permission.
+- Provides contact options and WhatsApp handoff.
+- Generates a prefilled WhatsApp message based on the customer's selected service.
+- Supports loading indicators, message history during the session, retry, and graceful error states.
+- Includes a clear AI assistant disclosure and basic privacy notice.
+- Never fabricates services, pricing, past customers, results, or guarantees.
+- Never claims that a WhatsApp message or email was sent when only a link was opened.
+- Protects against prompt injection and excessive requests.
+- Implements server-side rate limiting and safe error handling.
+
+Use AI Studio's Secrets system or server-side environment variables for `GEMINI_API_KEY`. Never expose the raw API key in browser JavaScript.
+
+If the API is unavailable, show an honest error state and functional FAQ and WhatsApp contact options. Do not simulate fake AI replies.
+
+---
+
+# 10. WHATSAPP BUSINESS INTEGRATION
+
+Add a sticky WhatsApp widget on every page.
+
+Use this exact official business number:
+
+**+923234313869**
+
+Create a click-to-chat link:
+
+https://wa.me/923234313869
+
+Include predefined messages for each service, for example:
+
+"Hello Moavia SEO Pro, I am interested in your Technical SEO services. Please share more details."
+
+Required integration points:
+- Sticky WhatsApp widget
+- Hero section
+- Service detail pages
+- Pricing cards
+- Contact page
+- AI chatbot handoff
+- Mobile contact navigation
+- Footer
+
+Ensure links open WhatsApp correctly on compatible devices, with normal browser fallback.
+
+---
+
+# 11. CONTACT AND LEAD GENERATION
+
+Build a functional, secure inquiry form with:
+
+- Full Name
+- Email Address
+- WhatsApp Number
+- Country
+- Required Service
+- Estimated Budget
+- Project Details
+- Optional Website URL
+- Consent Checkbox
+- Submit Button
+
+Implement client-side and server-side validation.
+
+Store leads using Firebase Firestore or another properly configured persistent database.
+
+Configure secure admin notification email delivery if an email service is connected.
+
+Do not display a false success message if submission fails.
+
+Show loading, success, and error states.
+
+After a successful form submission, redirect users to the Thank You page.
+
+Also provide a WhatsApp inquiry option.
+
+Include clear privacy information and protect forms against spam and abuse.
+
+---
+
+# 12. STRICT TECHNICAL SEO REQUIREMENTS
+
+SEO is an essential architectural requirement, not an optional feature.
+
+Implement:
+
+1. Server-rendered or statically generated indexable HTML for all public marketing pages.
+2. Unique descriptive title tags for every page.
+3. Unique meta descriptions.
+4. Exactly one primary H1 per page.
+5. Logical H2 and H3 hierarchy.
+6. Semantic HTML5 elements.
+7. Human-readable SEO-friendly URLs.
+8. Self-referencing canonical tags on canonical public pages.
+9. Automatic XML sitemap generation.
+10. Proper robots.txt.
+11. Correct index/noindex decisions for public pages versus administrative, utility, and thank-you pages.
+12. Open Graph metadata.
+13. Twitter/X card metadata.
+14. Meaningful descriptive image alt text.
+15. Responsive mobile-first layouts.
+16. Internal linking between related services and relevant blog articles.
+17. Breadcrumb navigation.
+18. BreadcrumbList structured data where applicable.
+19. Organization structured data with the real business contact and social profiles.
+20. Service structured data on relevant service pages where appropriate.
+21. FAQPage structured data only where valid and compliant with Google's eligibility requirements.
+22. No misleading aggregate ratings or fabricated review markup.
+23. Proper redirects and 404 handling.
+24. No duplicate indexable content.
+25. Clean and efficient URLs.
+26. Optimized font loading.
+27. Lazy loading for below-the-fold imagery.
+28. Modern responsive image delivery.
+29. Optimized Core Web Vitals.
+30. Google Search Console verification support.
+31. GA4 integration support.
+32. Google Tag Manager integration support.
+33. User-consent-aware marketing tracking where required.
+34. Secure HTTPS-ready deployment.
+35. Correct semantic navigation and links for web crawlers.
+36. Proper website architecture for international clients.
+37. Accessible interactive controls.
+38. Correct robots and sitemap handling across production and preview environments.
+
+**Performance Targets:**
+- Lighthouse Performance: Target 90+
+- Lighthouse SEO: Target 95–100
+- Lighthouse Accessibility: Target 95+
+- Lighthouse Best Practices: Target 95+
+- LCP: Target 2.5 seconds or better
+- CLS: Target 0.1 or lower
+- INP: Target 200 ms or better
+
+Treat these as measurable goals, not guaranteed scores. Optimize and validate the actual build.
+
+Make sure important page content is available in the rendered HTML, not hidden behind client-side rendering.
+
+---
+
+# 13. SERVICE PAGE CONTENT TEMPLATE
+
+Every service detail page must contain:
+
+1. Unique SEO-friendly meta title and description.
+2. Clear H1 with the actual service name.
+3. Compelling introduction.
+4. Explanation of the service.
+5. Problems it solves.
+6. Benefits for potential clients.
+7. Detailed service inclusions and deliverables.
+8. Our working process.
+9. Technologies and tools where relevant.
+10. Suitable businesses and industries.
+11. Starting price and scope information.
+12. Realistic expectations and timelines.
+13. Relevant FAQs.
+14. Links to complementary services.
+15. Strong, contextual contact and WhatsApp CTAs.
+
+Write original, helpful, conversion-focused copy.
+
+Aim for approximately 400–800 substantive words on major service pages where appropriate, without artificial keyword stuffing or repetitive filler.
+
+Use search intent and relevant keyword variations naturally.
+
+Do not duplicate the same paragraph across dozens of service pages.
+
+---
+
+# 14. HIGH-CONVERTING HOMEPAGE
+
+Arrange the homepage in a polished, logical sequence:
+
+1. Premium navigation header.
+2. Hero with compelling headline, professional visual, and CTAs.
+3. Four primary service categories with icons.
+4. "Why Choose Moavia SEO Pro" section.
+5. Detailed service highlights.
+6. Transparent pricing preview.
+7. "How We Work" process timeline.
+8. Business growth and performance marketing solutions.
+9. Technology and platform expertise.
+10. Portfolio/project showcase.
+11. Frequently asked questions.
+12. Free consultation CTA.
+13. Complete footer.
+
+Do not fabricate awards, partner certifications, successful client case studies, traffic growth percentages, reviews, or testimonials.
+
+If verified portfolio information is not available, use clearly labeled conceptual project demonstrations and avoid presenting them as real client engagements.
+
+Make the design visually impressive without sacrificing speed, accessibility, or readability.
+
+---
+
+# 15. BLOG AND CONTENT MARKETING
+
+Create a functional SEO blog with category pages and article pages.
+
+Categories:
+- SEO Guides
+- Technical SEO
+- Link Building
+- WordPress
+- AI Website Development
+- Meta Ads
+- Google Ads
+- Digital Marketing
+
+Write at least 8 useful, original starter articles, including:
+
+1. Complete SEO Guide for Small Businesses
+2. On-Page SEO vs Off-Page SEO
+3. Technical SEO Checklist
+4. How to Improve WordPress Website Speed
+5. Google Ads vs Meta Ads
+6. Google Ads Keyword Research Guide
+7. What Makes a High-Converting Landing Page?
+8. Local SEO for Service Businesses
+
+Articles must include original structured content, relevant internal links, accurate information, author attribution, and appropriate article metadata.
+
+Do not invent publication dates in the past, research citations, or statistics.
+
+Make blog data easy to edit and expand.
+
+---
+
+# 16. MOBILE APPLICATION EXPERIENCE — PWA
+
+Make the same website work as an installable Progressive Web App.
+
+Implement:
+- Web app manifest
+- Professional application name: Moavia SEO Pro
+- Short name: Moavia
+- Proper mobile app icons
+- Custom splash visuals where supported
+- Standalone display mode
+- Responsive touch-friendly layouts
+- Mobile bottom navigation where appropriate
+- Reliable routing
+- Optimized mobile forms
+- Support for installation on compatible Android and iOS browsers
+- Appropriate offline caching for static pages and assets
+- Clear offline feedback when live services are unavailable
+
+Never claim the AI chatbot or form submissions work offline unless those functions are genuinely implemented.
+
+The PWA must not harm the SEO of the public website.
+
+---
+
+# 17. ADMIN AND CONTENT MANAGEMENT
+
+Create a protected admin area when backend authentication and persistent storage are configured.
+
+Admin features:
+- View customer inquiries
+- Update inquiry status
+- Edit pricing
+- Manage services
+- Add or edit blog posts
+- Update FAQs
+- Manage portfolio entries
+- Update chatbot knowledge content
+- View basic lead statistics
+
+Use secure authentication, role-based access controls, and strict database access rules.
+
+Admin pages must not be publicly indexable.
+
+Never include public default admin credentials or weak hardcoded passwords.
+
+If an external dependency is required, provide a clearly documented setup rather than pretending it is connected.
+
+---
+
+# 18. TECHNOLOGY AND ARCHITECTURE
+
+Use a modern, maintainable full-stack architecture supported by Google AI Studio.
+
+Preferred technologies:
+- Next.js with TypeScript, App Router, and server-side rendering/static generation when fully compatible with the available build environment.
+- Otherwise use a supported React + TypeScript architecture with a proper prerendering/SSR strategy for SEO.
+- Tailwind CSS for responsive styling.
+- Reusable components.
+- Node.js backend for secured server-side operations.
+- Gemini API for the AI assistant.
+- Firebase Firestore or a similar persistent database when configured.
+- Proper schema validation.
+- Accessible components.
+- Minimal necessary dependencies.
+- Central service and pricing configuration.
+- Environment-based configuration for production URLs.
+- Secure secrets management.
+
+Do not choose a client-rendered-only architecture that prevents search engines from discovering important page content.
+
+Include clean folder organization, reusable layouts, service templates, FAQ components, SEO metadata utilities, and documentation.
+
+---
+
+# 19. SECURITY AND PRODUCTION QUALITY
+
+Implement professional security practices:
+
+- Server-side validation
+- Sanitization and safe rendering
+- Appropriate security headers
+- Secure API key handling
+- Rate limiting for public API endpoints
+- Spam protection
+- Safe database permissions
+- Authentication for admin functions
+- Error boundaries and helpful error states
+- Avoid vulnerable dependencies
+- Privacy-aware analytics
+- Secure contact form handling
+- No exposed private credentials
+- No fake integration success
+
+---
+
+# 20. DEPLOYMENT AND DELIVERABLES
+
+Generate the real application, not merely a description of the intended application.
+
+Required output:
+1. Complete source code.
+2. Full multipage site with functioning routes.
+3. Responsive design.
+4. Working navigation and service links.
+5. Real WhatsApp contact functionality.
+6. AI chatbot implementation with secure configuration.
+7. Functional form and persistence implementation with documented required setup.
+8. SEO metadata and structured data.
+9. Sitemap and robots configuration.
+10. PWA installation support.
+11. Professional icons and visual assets.
+12. All requested service categories and detail pages.
+13. Original website copy.
+14. Editable pricing and service data.
+15. README with installation instructions.
+16. `.env.example` with variable names only.
+17. Production build and deployment instructions.
+18. GitHub-ready project organization.
+19. Cloud deployment guidance.
+20. Custom `.com` domain configuration documentation.
+
+Do not invent a live website URL or claim a domain has been connected.
+
+For integrations requiring external credentials or accounts, clearly label what must be configured.
+
+Perform available build, lint, and TypeScript checks, and fix errors before declaring completion.
+
+Verify that important routes, chatbot flows, CTA links, forms, SEO metadata, and mobile navigation behave correctly.
+
+---
+
+# FINAL EXECUTION INSTRUCTION
+
+**START BUILDING NOW.**
+
+Implement the complete Moavia SEO Pro platform using the specifications above.
+
+Prioritize:
+1. Professional frontend and branding
+2. All essential routes and individual service pages
+3. Strict technical SEO
+4. Accurate pricing and business contacts
+5. Secure Gemini-powered AI support
+6. Functional lead generation
+7. Mobile PWA experience
+8. Performance, accessibility, and production readiness
+
+Do not stop after building the homepage.
+
+Do not replace functionality with visual placeholders.
+
+Do not skip requested services.
+
+Complete as much of the functioning full-stack application as the environment permits, validate the implementation, and identify any remaining third-party configuration requirements accurately.

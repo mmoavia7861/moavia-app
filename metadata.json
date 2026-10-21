@@ -1,0 +1,6 @@
+{
+  "name": "Moavia SEO Pro",
+  "description": "Official mobile app for Moavia SEO Pro: Technical SEO, Web Development, Meta & Google Ads, Gemini AI Assistant, and Growth Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
